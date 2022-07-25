@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mykyta
 - 👀 I’m interested in building software.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Selenium.
 - 💞️ I’m looking to collaborate on web scraping tools.
 - 📫 How to reach me www.linkedin.com/in/mykytakhmel
 - Recent grad with a degree in Computer Science.
